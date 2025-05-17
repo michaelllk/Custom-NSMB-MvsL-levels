@@ -1,4 +1,4 @@
-# Custom-NSMB-MvsL-levels
+# Custom NSMB MvsL levels
 New levels to experience in NSMB Mario vs Luigi! 
 
 # Requirements

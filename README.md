@@ -7,7 +7,7 @@ New levels to experience in NSMB Mario vs Luigi!
 * A legal Europe ROM of New Super Mario Bros.
 * 2 hacked DSi's/3DS or 2 stock DSs with flashcards. **Both DSs need to have the game! And both need to be in the multiplayer menu in the game! Not in the download play app!**
 
-* Instructions
+# Instructions
 * Open NSMBe and open your ROM
 * Go to Export settings, and click on "Import patch"
 * It will ask you to select a clear rom of your game. After that find the patch file from the releases page.

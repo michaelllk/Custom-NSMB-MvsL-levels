@@ -10,7 +10,7 @@ New levels to experience in NSMB Mario vs Luigi!
 # Instructions
 * Open NSMBe and open your ROM
 * Go to **"Tools/Options"**, and click on "Import Patch"
-* It will ask you to select a clear rom of your game. (Make a copy of the rom).([https://lh5.googleusercontent.com/-GRKvfv-TAaI/ToBy1_eFrfI/AAAAAAAAASA/9WDkc_OQPC4/s800/Tinke%2525200.8.1.PNG](https://raw.githubusercontent.com/michaelllk/Custom-NSMB-MvsL-levels/refs/heads/main/example.png)) After that select the patch file from the releases page.
+* It will ask you to select a clear rom of your game. (Make a copy of the rom). After that select the patch file from the releases page.
 * Ignore the "Patch is made for another region" and then let the patch finish.
 * Place the rom to both DSs and launch the game, on both devices, go to the multiplayer menu (the top one) and connect the DSs
 * Done! Enjoy a little extension to the levels!
